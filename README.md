@@ -1,1 +1,2 @@
-# s2-alzheimers-isease-classification-mri-gene-expression
+# Alzheimer's Disease Classification using MRI and Gene Expression Data
+This project focuses on developing machine learning models to diagnose Alzheimer's Disease (AD) and its early stages using MRI scans and gene expression data. We aim to classify patients into different stages of cognitive decline: Alzheimer’s Disease (AD), Mild Cognitive Impairment (MCI), and healthy controls (CTL). The models are trained on a combination of medical imaging and genetic data, using advanced feature selection and classification techniques to optimize prediction accuracy. The goal is to contribute to early diagnosis and improve understanding of Alzheimer’s progression through data-driven analysis.
